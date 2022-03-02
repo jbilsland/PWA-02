@@ -2,7 +2,7 @@
     "name": "Hello World",
     "short_name": "Hello",
     "lang": "en-US",
-    "start-url": "/PWA-02/index.html",
+    "start-url": "PWA-02/index.html",
     "display": "standalone",
     "prefer_related_applications": "false",
     "background_color": "white",
